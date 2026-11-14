@@ -1,0 +1,3 @@
+# Copy this file to .htaccess and set your chosen secret value.
+# The same value must be set as PRIVATE_PROXY_SECRET in the front proxy.
+SetEnv PRIVATE_PROXY_SECRET your-secret-here
